@@ -1,11 +1,11 @@
 import requests
 
-def get_json_from_url(mon_url):
+def get_json_from_url(mon_url,params=None):
     # Définir l'agent utilisateur
     headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/35.0.1916.47 Safari/537.36'}
 
     try:  # Gestion des exceptions avec un bloc try/except
-        response = requests.get(mon_url, headers=headers)
+        response = requests.get(mon_url, headers=headers, params=params)
         response.raise_for_status()  # Génère une exception pour les codes d'erreur HTTP
         return response.json()  # Renvoie directement la réponse au format JSON
     except requests.exceptions.HTTPError as http_err:
@@ -15,15 +15,25 @@ def get_json_from_url(mon_url):
     return None
 
 
+def param(date= "2024-10-07T14:01:04,2024-10-31T23:00:00",longitude= -0.12574,latitude= 51.50853,salle=None, page=1, ville=2643743, genres='all-genres'):
+    params ={ 'city_id': ville,  # ID de la ville de Londres
+        'date': date,  # Plage de dates
+        'page': page,  # Numéro de la page
+        'longitude': longitude,  # Longitude de Londres
+        'latitude': latitude,
+        'genre_query': genres
+    }
+    return params
+
 
 
 ###########################test###############################
 
  
 if __name__ == '__main__':
-    url = "https://www.bandsintown.com/choose-dates/fetch-next/upcomingEvents?city_id=2643743&date=2024-10-07T14%3A01%3A04%2C2024-10-31T23%3A00%3A00&page=30&longitude=-0.12574&latitude=51.50853&genre_query=all-genres"
-    data = get_json_from_url(url)
-    
+    url = "https://www.bandsintown.com/choose-dates/fetch-next/upcomingEvents"
+
+    data = get_json_from_url(url,param(page=2))
     if data and 'events' in data:
         # Afficher le nom du premier artiste dans la liste des événements
         first_event = data['events'][0]

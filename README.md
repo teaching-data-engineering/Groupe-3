@@ -3,3 +3,4 @@ Notre groupe est composé de Elise Mahe, Marjorie Lucas, Jeanne Leroux et Titoua
 Et ceci est un nouveau test.
 c'est jeanne 
 c'est marjorie
+c'est Elise 

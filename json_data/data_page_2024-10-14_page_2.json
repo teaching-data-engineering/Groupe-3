@@ -1,10 +1,17 @@
 {
     "events": [
         {
+<<<<<<< HEAD
+            "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
+            "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.webp",
+            "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032405928-sahra-halgan-at-the-hope-and-ruin?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.png",
+=======
             "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
             "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032405928-sahra-halgan-at-the-hope-and-ruin?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "sahra halgan",
             "venueName": "The Hope and Ruin",
             "streamingEvent": false,
@@ -27,7 +34,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/17321573.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/17321573.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/105625291-chris-while-and-julie-matthews-at-nettlebed-village-club?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Chris While & Julie Matthews",
             "venueName": "Nettlebed Village Club",
             "streamingEvent": false,
@@ -74,7 +85,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/12360598.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/12360598.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032579672-alex-isley-at-village-underground?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Alex Isley",
             "venueName": "Village Underground",
             "streamingEvent": false,
@@ -97,7 +112,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/17413410.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/17413410.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032779594-heavy-wild-at-the-old-blue-last?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "heavy wild",
             "venueName": "The Old Blue Last",
             "streamingEvent": false,
@@ -120,7 +139,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/18397590.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/18397590.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033176370-julian-ovenden-at-cadogan-hall?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Julian Ovenden",
             "venueName": "Cadogan Hall",
             "streamingEvent": false,
@@ -191,7 +214,7 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/238629.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/238629.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033053890-leibniz-at-sebright-arms?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
-            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.png",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.png",
             "artistName": "Leibniz",
             "venueName": "Sebright Arms",
             "streamingEvent": false,
@@ -214,7 +237,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/8810309.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/8810309.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033154378-web-at-windmill-brixton?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Web",
             "venueName": "Windmill Brixton",
             "streamingEvent": false,
@@ -237,7 +264,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/17892412.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/17892412.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032579704-emmavie-at-village-underground?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Emmavie",
             "venueName": "Village Underground",
             "streamingEvent": false,
@@ -257,10 +288,17 @@
             "locale": "en"
         },
         {
+<<<<<<< HEAD
+            "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.png",
+            "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.webp",
+            "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032631273-greenstar-at-the-old-blue-last?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
+=======
             "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
             "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032631273-greenstar-at-the-old-blue-last?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "GreenStar",
             "venueName": "The Old Blue Last",
             "streamingEvent": false,
@@ -283,7 +321,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/18428397.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/18428397.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032870543-ricky-gervais-at-new-victoria-theatre?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Ricky Gervais",
             "venueName": "New Victoria Theatre",
             "streamingEvent": false,
@@ -303,10 +345,17 @@
             "locale": "en"
         },
         {
+<<<<<<< HEAD
+            "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.png",
+            "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.webp",
+            "callToActionRedirectUrl": "https://www.bandsintown.com/e/1030077887-leveret-at-junction-2?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.png",
+=======
             "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.png",
             "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1030077887-leveret-at-junction-2?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Leveret",
             "venueName": "Junction 2",
             "streamingEvent": false,
@@ -329,7 +378,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/7619967.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/7619967.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1031212765-manic-mondays-at-tiger-tiger-london?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "MANIC MONDAYS",
             "venueName": "Tiger Tiger London",
             "streamingEvent": false,
@@ -352,7 +405,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/6253030.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/6253030.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1031206482-rnb-party-at-floripa?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "RnB Party",
             "venueName": "Floripa",
             "streamingEvent": false,
@@ -399,7 +456,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/17594032.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/17594032.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032692559-jeff-cohen-at-green-note?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Jeff Cohen",
             "venueName": "Green Note",
             "streamingEvent": false,
@@ -422,7 +483,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/174704.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/174704.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033087668-hamish-stuart-at-606-club?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Hamish Stuart",
             "venueName": "606 Club",
             "streamingEvent": false,
@@ -445,7 +510,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/18011890.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/18011890.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/105883684-omni-selassi-at-the-old-dispensary?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Omni Selassi",
             "venueName": "The Old Dispensary",
             "streamingEvent": false,
@@ -465,10 +534,17 @@
             "locale": "en"
         },
         {
+<<<<<<< HEAD
+            "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.png",
+            "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.webp",
+            "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032888126-anna-mcluckie-at-aces-and-eights?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.png",
+=======
             "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.png",
             "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032888126-anna-mcluckie-at-aces-and-eights?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Anna McLuckie",
             "venueName": "Aces & Eights",
             "streamingEvent": false,
@@ -514,7 +590,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/11075717.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/11075717.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1031797667-frameless-at-marble-arch-place?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "FRAMELESS",
             "venueName": "Marble Arch Place",
             "streamingEvent": false,

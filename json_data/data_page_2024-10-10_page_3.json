@@ -1,10 +1,17 @@
 {
     "events": [
         {
+<<<<<<< HEAD
+            "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.png",
+            "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.webp",
+            "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033023692-joely-june-at-oslo?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.png",
+=======
             "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.png",
             "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033023692-joely-june-at-oslo?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Joely June",
             "venueName": "Oslo",
             "streamingEvent": false,
@@ -27,7 +34,7 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/9173328.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/9173328.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1031712450-pearl-charles-at-omeara?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
-            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.png",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
             "artistName": "PEARL CHARLES",
             "venueName": "Omeara",
             "streamingEvent": false,
@@ -50,7 +57,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/8778181.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/8778181.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032989208-michael-rault-at-omeara?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Michael Rault",
             "venueName": "Omeara",
             "streamingEvent": false,
@@ -73,7 +84,7 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/9110356.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/9110356.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/105610048-the-rollin-stoned-at-the-eel-pie-club?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
-            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
             "artistName": "The Rollin Stoned",
             "venueName": "The Eel Pie Club",
             "streamingEvent": false,
@@ -96,7 +107,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/17522882.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/17522882.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/105704894-thomas-cvd-at-roadtrip-and-the-workshop?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Thomas CVD",
             "venueName": "Roadtrip & the Workshop",
             "streamingEvent": false,
@@ -120,7 +135,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/302187.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/302187.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032959482-horseman-at-fox-and-firkin?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Horseman",
             "venueName": "Fox & Firkin",
             "streamingEvent": false,
@@ -143,7 +162,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/267013.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/267013.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032959299-winston-francis-at-fox-and-firkin?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Winston Francis",
             "venueName": "Fox & Firkin",
             "streamingEvent": false,
@@ -212,7 +235,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/18080930.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/18080930.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1029910518-scouting-for-girls-at-o2-forum-kentish-town?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Scouting for Girls",
             "venueName": "O2 Forum Kentish Town",
             "streamingEvent": false,
@@ -235,7 +262,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/12360598.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/12360598.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032419867-alex-isley-at-the-jazz-cafe?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Alex Isley",
             "venueName": "The Jazz Cafe",
             "streamingEvent": false,
@@ -258,7 +289,7 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/16187530.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/16187530.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/105469705-tusks-at-the-lower-third?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
-            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.png",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
             "artistName": "Tusks",
             "venueName": "The Lower Third",
             "streamingEvent": false,
@@ -281,7 +312,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/16305201.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/16305201.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033121910-hot-chip-at-rough-trade-east?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Hot Chip",
             "venueName": "Rough Trade East",
             "streamingEvent": false,
@@ -304,7 +339,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/18368985.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/18368985.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/105999835-della-nova-at-strongroom-bar?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "DELLA NOVA",
             "venueName": "Strongroom Bar",
             "streamingEvent": false,
@@ -327,7 +366,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/9368299.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/9368299.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1030000924-catherine-bohart-at-bloomsbury-theatre-and-studio?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Catherine Bohart",
             "venueName": "Bloomsbury Theatre and Studio",
             "streamingEvent": false,
@@ -350,7 +393,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/18366321.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/18366321.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033154202-king-kashmere-at-hootananny-brixton?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "King Kashmere",
             "venueName": "Hootananny Brixton",
             "streamingEvent": false,
@@ -373,7 +420,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/295038.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/295038.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032715017-lonyo-at-boisdale-of-canary-wharf?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Lonyo",
             "venueName": "Boisdale of Canary Wharf",
             "streamingEvent": false,
@@ -419,7 +470,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/7037963.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/7037963.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032803209-louise-parker-at-hot-box-live?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Louise Parker",
             "venueName": "Hot Box Live",
             "streamingEvent": false,
@@ -442,7 +497,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/18187183.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/18187183.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/105943944-patino-at-folklore?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Patiño",
             "venueName": "Folklore",
             "streamingEvent": false,
@@ -465,7 +524,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/14628442.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/14628442.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032655278-tertia-at-sebright-arms?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "TERTIA",
             "venueName": "Sebright Arms",
             "streamingEvent": false,
@@ -488,7 +551,7 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/18340653.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/18340653.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032392176-fliptrix-at-hootananny-brixton?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
-            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.png",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.png",
             "artistName": "Fliptrix",
             "venueName": "Hootananny Brixton",
             "streamingEvent": false,
@@ -511,7 +574,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/18108269.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/18108269.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/105919814-parisi-at-corsica-studios?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Parisi",
             "venueName": "Corsica Studios",
             "streamingEvent": false,
@@ -535,7 +602,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/8497020.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/8497020.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1031139634-china-bears-at-oslo-hackney?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "China Bears",
             "venueName": "Oslo Hackney",
             "streamingEvent": false,
@@ -555,8 +626,13 @@
             "locale": "en"
         },
         {
+<<<<<<< HEAD
+            "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.png",
+            "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.webp",
+=======
             "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.png",
             "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.webp",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033026116-jim-lockey-and-the-solemn-sun-at-oslo-hackney?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.png",
             "artistName": "Jim Lockey & the Solemn Sun",
@@ -581,7 +657,7 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/13997472.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/13997472.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033066472-sterling-press-at-the-social?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
-            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.png",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.png",
             "artistName": "Sterling Press",
             "venueName": "The Social",
             "streamingEvent": false,
@@ -601,10 +677,17 @@
             "locale": "en"
         },
         {
+<<<<<<< HEAD
+            "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
+            "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.webp",
+            "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032871577-thool-at-st.-giles-church-camberwell?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.png",
+=======
             "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.png",
             "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032871577-thool-at-st.-giles-church-camberwell?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Thool",
             "venueName": "St. Giles Church, Camberwell",
             "streamingEvent": false,
@@ -627,7 +710,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/16753084.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/16753084.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/105372966-aviana-at-electric-ballroom?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Aviana",
             "venueName": "Electric Ballroom",
             "streamingEvent": false,
@@ -650,7 +737,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/15690456.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/15690456.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/106012834-kazeem-jamal-at-the-rum-monkey-comedy-club-(soho-venue)?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Kazeem Jamal",
             "venueName": "The Rum Monkey Comedy Club (Soho Venue)",
             "streamingEvent": false,
@@ -671,8 +762,13 @@
             "locale": "en"
         },
         {
+<<<<<<< HEAD
+            "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.png",
+            "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.webp",
+=======
             "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.png",
             "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.webp",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033066199-tough-cookie-at-the-social?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
             "artistName": "Tough Cookie",
@@ -697,7 +793,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/254230.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/254230.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032810336-bull-at-signature-brew-haggerston?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Bull",
             "venueName": "Signature Brew Haggerston",
             "streamingEvent": false,
@@ -720,7 +820,7 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/18303534.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/18303534.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/105670550-gift-at-the-hope-and-ruin?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
-            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.png",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.png",
             "artistName": "GIFT",
             "venueName": "The Hope & Ruin",
             "streamingEvent": false,

@@ -4,7 +4,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/17767157.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/17767157.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/105794382-christian-sands-at-ronnie-scott's?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Christian Sands",
             "venueName": "Ronnie Scott's",
             "streamingEvent": false,
@@ -47,10 +51,17 @@
             "locale": "en"
         },
         {
+<<<<<<< HEAD
+            "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.png",
+            "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.webp",
+            "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032445943-the-autumn-saints-at-chalk?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.png",
+=======
             "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
             "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032445943-the-autumn-saints-at-chalk?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "The Autumn Saints",
             "venueName": "Chalk",
             "streamingEvent": false,
@@ -119,7 +130,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/8366287.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/8366287.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032734624-frenchy-at-the-bill-murray?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Frenchy",
             "venueName": "The Bill Murray",
             "streamingEvent": false,
@@ -142,7 +157,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/8653597.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/8653597.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1031817850-david-gilmour-at-royal-albert-hall?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "David Gilmour",
             "venueName": "Royal Albert Hall",
             "streamingEvent": false,
@@ -165,7 +184,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/8390080.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/8390080.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033100959-marley-at-the-house-of-koko?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Marley",
             "venueName": "The House of KOKO",
             "streamingEvent": false,
@@ -231,10 +254,14 @@
             "locale": "en"
         },
         {
+<<<<<<< HEAD
+            "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
+=======
             "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032256276-siobhan-winifred-at-the-lower-third?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
-            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
             "artistName": "Siobhan Winifred",
             "venueName": "The Lower Third",
             "streamingEvent": false,
@@ -257,7 +284,7 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/17240011.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/17240011.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/105585850-chance-pena-at-o2-shepherds-bush-empire?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
-            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.png",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
             "artistName": "Chance Peña",
             "venueName": "O2 Shepherds Bush Empire",
             "streamingEvent": false,
@@ -304,7 +331,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/13703171.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/13703171.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032205356-panic-shack-at-brighton-dome?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Panic Shack",
             "venueName": "Brighton Dome",
             "streamingEvent": false,
@@ -327,7 +358,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/13112952.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/13112952.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/105814633-amanda-rheaume-at-green-note?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Amanda Rheaume",
             "venueName": "Green Note",
             "streamingEvent": false,
@@ -370,10 +405,15 @@
             "locale": "en"
         },
         {
+<<<<<<< HEAD
+            "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.png",
+            "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.webp",
+=======
             "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.png",
             "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.webp",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033003495-dwills-at-the-star-of-shoreditch?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
-            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.png",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.png",
             "artistName": "Dwills",
             "venueName": "The Star of Shoreditch",
             "streamingEvent": false,
@@ -393,10 +433,14 @@
             "locale": "en"
         },
         {
+<<<<<<< HEAD
+            "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
+=======
             "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032936343-pricey-at-the-star-of-shoreditch?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
-            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.png",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.png",
             "artistName": "PRICEY",
             "venueName": "The Star of Shoreditch",
             "streamingEvent": false,
@@ -417,7 +461,11 @@
         },
         {
             "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.png",
+<<<<<<< HEAD
+            "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.webp",
+=======
             "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.webp",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032622500-hamzaa-at-electric-brixton?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.png",
             "artistName": "Hamzaa",
@@ -442,7 +490,7 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/16914418.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/16914418.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/105443446-jady-at-o2-academy-islington?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
-            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.png",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.png",
             "artistName": "Jady",
             "venueName": "O2 Academy Islington",
             "streamingEvent": false,
@@ -465,7 +513,7 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/15993268.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/15993268.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/105442678-stain-the-canvas-at-o2-academy-islington?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
-            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.png",
             "artistName": "Stain The Canvas",
             "venueName": "O2 Academy Islington",
             "streamingEvent": false,
@@ -488,7 +536,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/16771432.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/16771432.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032597357-soft-launch-at-the-garage?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Soft Launch",
             "venueName": "The Garage",
             "streamingEvent": false,
@@ -508,8 +560,13 @@
             "locale": "en"
         },
         {
+<<<<<<< HEAD
+            "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
+            "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.webp",
+=======
             "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.png",
             "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.webp",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032903520-tara-lily-at-rough-trade-east?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.png",
             "artistName": "Tara Lily",
@@ -534,7 +591,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/149332.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/149332.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032955456-el-guapo-at-folklore?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "El Guapo",
             "venueName": "Folklore",
             "streamingEvent": false,
@@ -580,7 +641,7 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/15531080.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/15531080.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/105215305-ariel-posen-at-komedia?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
-            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.png",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.png",
             "artistName": "Ariel Posen",
             "venueName": "Komedia",
             "streamingEvent": false,
@@ -603,7 +664,7 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/17232742.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/17232742.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032037326-tex-at-sebright-arms?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
-            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
             "artistName": "Tex",
             "venueName": "Sebright Arms",
             "streamingEvent": false,
@@ -646,10 +707,17 @@
             "locale": "en"
         },
         {
+<<<<<<< HEAD
+            "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
+            "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.webp",
+            "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032921646-bukky-leo-and-black-egypt-at-the-jazz-cafe?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
+=======
             "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.png",
             "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032921646-bukky-leo-and-black-egypt-at-the-jazz-cafe?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Bukky Leo & Black Egypt",
             "venueName": "The Jazz Cafe",
             "streamingEvent": false,
@@ -672,7 +740,7 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/17963298.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/17963298.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/105868133-bighead-tea-drinkers-at-patterns?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
-            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.png",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
             "artistName": "Bighead Tea Drinkers",
             "venueName": "Patterns",
             "streamingEvent": false,
@@ -695,7 +763,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/15387463.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/15387463.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/105666674-video-age-at-the-lexington?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Video Age",
             "venueName": "The Lexington",
             "streamingEvent": false,
@@ -764,7 +836,7 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/14043697.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/14043697.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032407231-master-peace-at-patterns?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
-            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.png",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.png",
             "artistName": "Master Peace",
             "venueName": "Patterns",
             "streamingEvent": false,
@@ -784,8 +856,13 @@
             "locale": "en"
         },
         {
+<<<<<<< HEAD
+            "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
+            "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.webp",
+=======
             "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.png",
             "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.webp",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032354674-pearl-fish-at-paper-dress-vintage?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
             "artistName": "Pearl Fish",
@@ -807,10 +884,17 @@
             "locale": "en"
         },
         {
+<<<<<<< HEAD
+            "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
+            "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.webp",
+            "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033145265-sullii-at-underworld?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
+=======
             "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.png",
             "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033145265-sullii-at-underworld?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "sullii",
             "venueName": "Underworld",
             "streamingEvent": false,

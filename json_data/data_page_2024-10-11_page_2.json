@@ -4,7 +4,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/9713870.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/9713870.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033146497-liam-finn-at-the-o2?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Liam Finn",
             "venueName": "The O2",
             "streamingEvent": false,
@@ -27,7 +31,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/12010017.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/12010017.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032420046-yolanda-brown-at-soul-mama?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "YolanDa Brown",
             "venueName": "Soul Mama",
             "streamingEvent": false,
@@ -50,7 +58,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/17415630.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/17415630.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032946995-ben-camden-at-scala?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Ben Camden",
             "venueName": "Scala",
             "streamingEvent": false,
@@ -73,7 +85,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/8843419.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/8843419.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032947016-jordy-maxwell-at-scala?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Jordy Maxwell",
             "venueName": "Scala",
             "streamingEvent": false,
@@ -96,7 +112,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/17394250.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/17394250.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/105655295-crowded-house-at-the-o2?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Crowded House",
             "venueName": "The O2",
             "streamingEvent": false,
@@ -119,7 +139,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/18364731.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/18364731.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/105997766-ania-hoo-at-world-heart-beat-embassy-gardens?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Ania Hoo",
             "venueName": "World Heart Beat Embassy Gardens",
             "streamingEvent": false,
@@ -142,7 +166,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/18287571.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/18287571.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/105973679-charlie-smith-at-roadtrip-and-the-workshop?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Charlie Smith",
             "venueName": "Roadtrip & the Workshop",
             "streamingEvent": false,
@@ -166,7 +194,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/9059506.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/9059506.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1030744633-nick-corbin-at-mash?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Nick Corbin",
             "venueName": "MASH",
             "streamingEvent": false,
@@ -189,7 +221,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/16161098.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/16161098.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032504423-billy-sullivan-at-mash?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Billy Sullivan",
             "venueName": "MASH",
             "streamingEvent": false,
@@ -212,7 +248,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/8653597.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/8653597.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1031817399-david-gilmour-at-royal-albert-hall?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "David Gilmour",
             "venueName": "Royal Albert Hall",
             "streamingEvent": false,
@@ -235,7 +275,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/18303564.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/18303564.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/105670553-gift-at-moth-club?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "GIFT",
             "venueName": "Moth Club",
             "streamingEvent": false,
@@ -281,7 +325,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/14824260.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/14824260.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1031769486-overmono-at-o2-academy-brixton?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Overmono",
             "venueName": "O2 Academy Brixton",
             "streamingEvent": false,
@@ -302,9 +350,15 @@
         },
         {
             "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.png",
+<<<<<<< HEAD
+            "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.webp",
+            "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033041703-masal-at-loki?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.png",
+=======
             "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033041703-masal-at-loki?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "MASAL",
             "venueName": "Loki",
             "streamingEvent": false,
@@ -327,7 +381,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/6267881.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/6267881.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033041591-jose-macabra-at-loki?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Jose Macabra",
             "venueName": "Loki",
             "streamingEvent": false,
@@ -350,7 +408,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/293667.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/293667.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1031139661-king-buzzo-at-dust?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "King Buzzo",
             "venueName": "DUST",
             "streamingEvent": false,
@@ -373,7 +435,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/17170345.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/17170345.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1031784839-amy-gledhill-at-the-old-market?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Amy Gledhill",
             "venueName": "The Old Market",
             "streamingEvent": false,
@@ -396,7 +462,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/8641587.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/8641587.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1031909810-witchsorrow-at-the-black-heart?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Witchsorrow",
             "venueName": "The Black Heart",
             "streamingEvent": false,
@@ -419,7 +489,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/8364889.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/8364889.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032617262-my-life-story-at-boileroom?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "My Life Story",
             "venueName": "Boileroom",
             "streamingEvent": false,
@@ -466,7 +540,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/15202171.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/15202171.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032478635-martin-kemp-at-indigo-at-the-o2?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Martin Kemp",
             "venueName": "indigo at The O2",
             "streamingEvent": false,
@@ -489,7 +567,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/8345885.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/8345885.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1031375280-16-guns-at-229?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "16 Guns",
             "venueName": "229",
             "streamingEvent": false,
@@ -532,10 +614,17 @@
             "locale": "en"
         },
         {
+<<<<<<< HEAD
+            "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
+            "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.webp",
+            "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032858983-gift-horse-at-dream-bags-jaguar-shoes-shoreditch?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.png",
+=======
             "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.png",
             "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032858983-gift-horse-at-dream-bags-jaguar-shoes-shoreditch?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Gift Horse",
             "venueName": "Dream Bags Jaguar Shoes Shoreditch",
             "streamingEvent": false,
@@ -558,7 +647,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/18386241.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/18386241.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/106008181-wide-awake-club-at-the-star-inn?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Wide Awake Club",
             "venueName": "The Star Inn",
             "streamingEvent": false,
@@ -582,7 +675,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/16937470.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/16937470.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032874599-rosie-frater-taylor-at-o2-shepherds-bush-empire?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Rosie Frater-Taylor",
             "venueName": "O2 Shepherds Bush Empire",
             "streamingEvent": false,
@@ -605,7 +702,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/6473755.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/6473755.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1031716098-felicity-ward-at-earth?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Felicity Ward",
             "venueName": "EartH",
             "streamingEvent": false,
@@ -628,7 +729,7 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/135241.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/135241.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033134638-the-park-at-the-gunners?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
-            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
             "artistName": "The Park",
             "venueName": "The Gunners",
             "streamingEvent": false,
@@ -651,7 +752,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/8235668.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/8235668.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033179563-the-family-dog-at-the-george-tavern?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "the family dog",
             "venueName": "The George Tavern",
             "streamingEvent": false,
@@ -674,7 +779,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/17600622.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/17600622.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/105818709-maevey-at-piano-smithfield?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "MÆVEY",
             "venueName": "Piano Smithfield",
             "streamingEvent": false,
@@ -697,7 +806,7 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/9616638.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/9616638.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1031716022-nina-conti-at-earth-(theatre)?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
-            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.png",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
             "artistName": "Nina Conti",
             "venueName": "EartH (Theatre)",
             "streamingEvent": false,
@@ -720,7 +829,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/16139237.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/16139237.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/105034600-alice-armstrong-at-leighton-buzzard-theatre-central-bedfordshire-council?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Alice Armstrong",
             "venueName": "Leighton Buzzard Theatre - Central Bedfordshire Council",
             "streamingEvent": false,
@@ -743,7 +856,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/7369372.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/7369372.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1030734762-new-street-adventure-at-mash?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "New Street Adventure",
             "venueName": "MASH",
             "streamingEvent": false,
@@ -763,10 +880,17 @@
             "locale": "en"
         },
         {
+<<<<<<< HEAD
+            "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.png",
+            "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.webp",
+            "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032921644-laura-quinn-at-ninety-one-living-room?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
+=======
             "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.png",
             "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032921644-laura-quinn-at-ninety-one-living-room?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Laura Quinn",
             "venueName": "Ninety One Living Room",
             "streamingEvent": false,
@@ -786,10 +910,17 @@
             "locale": "en"
         },
         {
+<<<<<<< HEAD
+            "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.png",
+            "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.webp",
+            "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033134656-the-beautiful-game-at-the-gunners?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.png",
+=======
             "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.png",
             "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033134656-the-beautiful-game-at-the-gunners?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "The beautiful game",
             "venueName": "The Gunners",
             "streamingEvent": false,

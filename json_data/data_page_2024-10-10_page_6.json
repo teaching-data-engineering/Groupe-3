@@ -4,7 +4,7 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/9619767.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/9619767.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033091570-nick-helm-at-moth-club?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
-            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.png",
             "artistName": "Nick Helm",
             "venueName": "Moth Club",
             "streamingEvent": false,
@@ -27,7 +27,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/9618533.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/9618533.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1028137166-sarah-millican-at-cambridge-corn-exchange?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Sarah Millican",
             "venueName": "Cambridge Corn Exchange",
             "streamingEvent": false,
@@ -50,7 +54,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/17950735.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/17950735.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/105861625-steve-jinski-at-man-of-kent-ale-house?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Steve Jinski",
             "venueName": "Man of Kent Ale House",
             "streamingEvent": false,
@@ -74,7 +82,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/16511076.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/16511076.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033145276-the-julia-set-at-horn?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "The Julia Set",
             "venueName": "Horn",
             "streamingEvent": false,
@@ -97,7 +109,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/6253030.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/6253030.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1031213146-rnb-party-at-floripa?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "RnB Party",
             "venueName": "Floripa",
             "streamingEvent": false,
@@ -120,7 +136,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/15848670.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/15848670.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033121825-deptford-northern-soul-club-at-omeara?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Deptford Northern Soul Club",
             "venueName": "Omeara",
             "streamingEvent": false,
@@ -140,10 +160,17 @@
             "locale": "en"
         },
         {
+<<<<<<< HEAD
+            "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.png",
+            "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.webp",
+            "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033084224-folk-sessions-at-hand-of-glory?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.png",
+=======
             "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.png",
             "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033084224-folk-sessions-at-hand-of-glory?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Folk Sessions",
             "venueName": "Hand of Glory",
             "streamingEvent": false,
@@ -163,10 +190,15 @@
             "locale": "en"
         },
         {
+<<<<<<< HEAD
+            "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.png",
+            "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.webp",
+=======
             "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.png",
             "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.webp",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032638167-drew-mcdowall-at-kings-place?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
-            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.png",
             "artistName": "Drew McDowall",
             "venueName": "Kings Place",
             "streamingEvent": false,
@@ -187,9 +219,15 @@
         },
         {
             "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
+<<<<<<< HEAD
+            "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.webp",
+            "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032497853-harry-hill-at-moth-club?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.png",
+=======
             "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032497853-harry-hill-at-moth-club?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Harry Hill",
             "venueName": "Moth Club",
             "streamingEvent": false,
@@ -235,7 +273,7 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/200171.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/200171.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033091850-tom-allen-at-moth-club?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
-            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.png",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.png",
             "artistName": "Tom Allen",
             "venueName": "Moth Club",
             "streamingEvent": false,
@@ -281,7 +319,7 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/183342.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/183342.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033182159-gin-at-the-piano-bar-soho?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
-            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.png",
             "artistName": "Gin",
             "venueName": "The Piano Bar Soho",
             "streamingEvent": false,
@@ -304,7 +342,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/11614616.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/11614616.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033133052-mills-at-hamlet-bar-lounge-and-restaurant?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Mills",
             "venueName": "Hamlet Bar Lounge & Restaurant",
             "streamingEvent": false,
@@ -325,9 +367,15 @@
         },
         {
             "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.png",
+<<<<<<< HEAD
+            "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.webp",
+            "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033132401-clive-bell-at-hamlet-bar-lounge-and-restaurant?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
+=======
             "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033132401-clive-bell-at-hamlet-bar-lounge-and-restaurant?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Clive Bell",
             "venueName": "Hamlet Bar Lounge & Restaurant",
             "streamingEvent": false,
@@ -350,7 +398,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/12224917.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/12224917.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1031754696-japanese-television-at-hope-and-anchor?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Japanese Television",
             "venueName": "Hope & Anchor",
             "streamingEvent": false,
@@ -370,8 +422,13 @@
             "locale": "en"
         },
         {
+<<<<<<< HEAD
+            "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.png",
+            "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.webp",
+=======
             "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.png",
             "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.webp",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033146303-henry-taylour-at-troubadour?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.png",
             "artistName": "Henry Taylour",
@@ -396,7 +453,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/17065533.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/17065533.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1031800464-kathryn-roberts-and-sean-lakeman-at-riverhouse-barn?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Kathryn Roberts & Sean Lakeman",
             "venueName": "Riverhouse Barn",
             "streamingEvent": false,
@@ -419,7 +480,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/16979088.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/16979088.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033145468-tom-rxxd-at-horn?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Tom Rxxd",
             "venueName": "Horn",
             "streamingEvent": false,
@@ -442,7 +507,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/9620371.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/9620371.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033091775-alan-carr-at-moth-club?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Alan Carr",
             "venueName": "Moth Club",
             "streamingEvent": false,
@@ -462,10 +531,17 @@
             "locale": "en"
         },
         {
+<<<<<<< HEAD
+            "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.png",
+            "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.webp",
+            "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032778407-celtic-folk-at-the-old-blue-last?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
+=======
             "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
             "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032778407-celtic-folk-at-the-old-blue-last?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Celtic Folk",
             "venueName": "The Old Blue Last",
             "streamingEvent": false,
@@ -485,8 +561,13 @@
             "locale": "en"
         },
         {
+<<<<<<< HEAD
+            "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
+            "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.webp",
+=======
             "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.png",
             "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.webp",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032888408-josh-james-at-up-the-creek-comedy-club?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
             "artistName": "Josh James",
@@ -511,7 +592,7 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/17275602.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/17275602.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/105601104-curtis-eller-at-church-of-the-annunciation-brighton?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
-            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.png",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
             "artistName": "Curtis Eller",
             "venueName": "Church of the Annunciation, Brighton",
             "streamingEvent": false,
@@ -558,7 +639,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/18079384.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/18079384.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032083331-ray-cooper-at-green-note?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Ray Cooper",
             "venueName": "Green Note",
             "streamingEvent": false,
@@ -581,7 +666,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/9620476.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/9620476.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/105580280-booker-t.-jones-at-ronnie-scott's?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Booker T. Jones",
             "venueName": "Ronnie Scott's",
             "streamingEvent": false,
@@ -604,7 +693,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/18249049.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/18249049.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/105962994-mazza-at-the-magic-garden?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Mazza",
             "venueName": "The Magic Garden",
             "streamingEvent": false,
@@ -626,7 +719,11 @@
         },
         {
             "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.png",
+<<<<<<< HEAD
+            "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.webp",
+=======
             "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.webp",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033154763-marlie-at-house-party?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
             "artistName": "Marlie",
@@ -648,10 +745,17 @@
             "locale": "en"
         },
         {
+<<<<<<< HEAD
+            "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.png",
+            "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.webp",
+            "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033154771-aob-at-house-party?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.png",
+=======
             "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
             "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033154771-aob-at-house-party?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "AOB",
             "venueName": "House Party",
             "streamingEvent": false,
@@ -671,10 +775,15 @@
             "locale": "en"
         },
         {
+<<<<<<< HEAD
+            "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.png",
+            "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.webp",
+=======
             "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.png",
             "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.webp",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1031336926-wayne-hernandez-at-boisdale-of-belgravia?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
-            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.png",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
             "artistName": "Wayne Hernandez",
             "venueName": "Boisdale of Belgravia",
             "streamingEvent": false,
@@ -766,7 +875,7 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/11075717.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/11075717.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1031796764-frameless-at-marble-arch-place?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
-            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.png",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.png",
             "artistName": "FRAMELESS",
             "venueName": "Marble Arch Place",
             "streamingEvent": false,

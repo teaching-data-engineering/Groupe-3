@@ -4,7 +4,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/16646888.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/16646888.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/105318049-buckler's-reel-at-the-kings-head?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Buckler's Reel",
             "venueName": "The Kings Head",
             "streamingEvent": false,
@@ -28,7 +32,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/17059641.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/17059641.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/105735309-allergy-the-band-at-red-lion?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Allergy The Band",
             "venueName": "Red Lion",
             "streamingEvent": false,
@@ -52,7 +60,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/303589.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/303589.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1031171338-bollywood-at-shoreditch-town-hall?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Bollywood",
             "venueName": "Shoreditch Town Hall",
             "streamingEvent": false,
@@ -99,7 +111,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/15926966.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/15926966.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/104967560-horizon-five-at-fatling-hornchurch?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Horizon Five",
             "venueName": "Fatling Hornchurch",
             "streamingEvent": false,
@@ -122,7 +138,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/8200394.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/8200394.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032966637-ulysse-at-the-clf-art-lounge-and-roof-garden?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Ulysse",
             "venueName": "The CLF Art Lounge & Roof Garden",
             "streamingEvent": false,
@@ -142,10 +162,17 @@
             "locale": "en"
         },
         {
+<<<<<<< HEAD
+            "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.png",
+            "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.webp",
+            "callToActionRedirectUrl": "https://www.bandsintown.com/e/105040327-finnegan's-revival-at-mccaffertys-bar?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.png",
+=======
             "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.png",
             "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/105040327-finnegan's-revival-at-mccaffertys-bar?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Finnegan's Revival",
             "venueName": "Mccaffertys Bar",
             "streamingEvent": false,
@@ -165,10 +192,17 @@
             "locale": "en"
         },
         {
+<<<<<<< HEAD
+            "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.png",
+            "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.webp",
+            "callToActionRedirectUrl": "https://www.bandsintown.com/e/1031335919-wayne-hernandez-at-boisdale-of-belgravia?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
+=======
             "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.png",
             "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1031335919-wayne-hernandez-at-boisdale-of-belgravia?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Wayne Hernandez",
             "venueName": "Boisdale of Belgravia",
             "streamingEvent": false,
@@ -191,7 +225,11 @@
             "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
             "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033184070-chile-at-the-jago?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Chile",
             "venueName": "The Jago",
             "streamingEvent": false,
@@ -214,7 +252,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/17054781.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/17054781.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1031854009-zubin-kanga-pianist-at-queen-elizabeth-hall?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Zubin Kanga - pianist",
             "venueName": "Queen Elizabeth Hall",
             "streamingEvent": false,
@@ -260,7 +302,7 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/9926125.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/9926125.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033000469-dj-tennis-at-koko?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
-            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.png",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.png",
             "artistName": "Dj Tennis",
             "venueName": "KOKO",
             "streamingEvent": false,
@@ -283,7 +325,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/255004.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/255004.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033000365-ryan-elliot-at-koko?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Ryan Elliot",
             "venueName": "KOKO",
             "streamingEvent": false,
@@ -306,7 +352,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/15965626.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/15965626.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032940774-moblack-at-koko?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "MoBlack",
             "venueName": "KOKO",
             "streamingEvent": false,
@@ -349,10 +399,17 @@
             "locale": "en"
         },
         {
+<<<<<<< HEAD
+            "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.png",
+            "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.webp",
+            "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033115145-aychibs-at-colour-factory?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.png",
+=======
             "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.png",
             "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033115145-aychibs-at-colour-factory?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "AyChibs",
             "venueName": "Colour Factory",
             "streamingEvent": false,
@@ -375,7 +432,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/8519922.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/8519922.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033204268-lil-silva-at-ministry-of-sound?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Lil Silva",
             "venueName": "Ministry Of Sound",
             "streamingEvent": false,
@@ -418,10 +479,17 @@
             "locale": "en"
         },
         {
+<<<<<<< HEAD
+            "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.png",
+            "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.webp",
+            "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033000976-doudou-md-at-koko?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.png",
+=======
             "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.png",
             "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033000976-doudou-md-at-koko?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Doudou MD",
             "venueName": "KOKO",
             "streamingEvent": false,
@@ -444,7 +512,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/17727289.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/17727289.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032937015-praise-at-no-32?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Praise",
             "venueName": "No 32",
             "streamingEvent": false,
@@ -467,7 +539,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/8736550.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/8736550.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032983980-jeremy-underground-at-village-underground?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "jeremy underground",
             "venueName": "Village Underground",
             "streamingEvent": false,
@@ -488,7 +564,11 @@
         },
         {
             "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.png",
+<<<<<<< HEAD
+            "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.webp",
+=======
             "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.webp",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033001582-marie-montexier-at-koko?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.png",
             "artistName": "Marie Montexier",
@@ -513,7 +593,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/14330813.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/14330813.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033189973-louis-culture-at-ministry-of-sound?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "louis culture",
             "venueName": "Ministry Of Sound",
             "streamingEvent": false,
@@ -556,10 +640,17 @@
             "locale": "en"
         },
         {
+<<<<<<< HEAD
+            "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
+            "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.webp",
+            "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033080005-dance-hall-at-lit?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
+=======
             "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.png",
             "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033080005-dance-hall-at-lit?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Dance Hall",
             "venueName": "Lit",
             "streamingEvent": false,
@@ -579,10 +670,17 @@
             "locale": "en"
         },
         {
+<<<<<<< HEAD
+            "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
+            "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.webp",
+            "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033066979-henny-at-trapeze-bar?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.png",
+=======
             "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
             "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033066979-henny-at-trapeze-bar?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Henny",
             "venueName": "Trapeze Bar",
             "streamingEvent": false,
@@ -603,9 +701,15 @@
         },
         {
             "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.png",
+<<<<<<< HEAD
+            "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.webp",
+            "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033185895-european-305-at-colour-factory?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.png",
+=======
             "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033185895-european-305-at-colour-factory?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "European 305",
             "venueName": "Colour Factory",
             "streamingEvent": false,
@@ -628,7 +732,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/253985.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/253985.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032534641-daniele-baldelli-at-metropolis?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Daniele Baldelli",
             "venueName": "Metropolis",
             "streamingEvent": false,
@@ -674,7 +782,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/8391879.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/8391879.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032806765-camden-rocks-club-at-underworld?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Camden Rocks Club",
             "venueName": "Underworld",
             "streamingEvent": false,
@@ -720,7 +832,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/216973.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/216973.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032609109-ed-rush-and-optical-at-the-steel-yard?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Ed Rush and Optical",
             "venueName": "The Steel Yard",
             "streamingEvent": false,
@@ -743,7 +859,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/9713960.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/9713960.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032608988-audio-at-the-steel-yard?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Audio",
             "venueName": "The Steel Yard",
             "streamingEvent": false,
@@ -763,10 +883,17 @@
             "locale": "en"
         },
         {
+<<<<<<< HEAD
+            "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.png",
+            "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.webp",
+            "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032608968-chook-at-the-steel-yard?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
+=======
             "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.png",
             "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032608968-chook-at-the-steel-yard?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/05.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Chook",
             "venueName": "The Steel Yard",
             "streamingEvent": false,
@@ -789,7 +916,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/6349307.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/6349307.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032608798-dropset-at-the-steel-yard?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "DropSet",
             "venueName": "The Steel Yard",
             "streamingEvent": false,
@@ -812,7 +943,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/8511785.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/8511785.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032609133-task-horizon-at-the-steel-yard?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.png",
+=======
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Task Horizon",
             "venueName": "The Steel Yard",
             "streamingEvent": false,

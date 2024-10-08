@@ -6,6 +6,7 @@ import requests
 from datetime import datetime
 
 """
+# Supprimer les anciens fichiers
 def supprimer_fichiers(data_folder):
     # Boucler de 1 à 29
     for i in range(1, 30):
@@ -27,7 +28,41 @@ def supprimer_fichiers(data_folder):
 # Utilisation de la fonction
 dossier_json = "json_data"  # Remplacez par le chemin de votre dossier
 supprimer_fichiers(dossier_json)
+
+
+# Supprimer les fichiers qui bloquent
+def supprimer_fichiers_bloquent(data_folder, start_date, end_date):
+    # Convertir les dates en objets datetime pour comparaison
+    start_date_obj = datetime.strptime(start_date, "%Y-%m-%d")
+    end_date_obj = datetime.strptime(end_date, "%Y-%m-%d")
+
+    # Parcourir tous les fichiers dans le dossier
+    for nom_fichier in os.listdir(data_folder):
+        # Vérifier si le nom du fichier commence par "data_page_" et contient "_page_"
+        if nom_fichier.startswith("data_page_") and "_page_" in nom_fichier and nom_fichier.endswith(".json"):
+            # Extraire la date du nom du fichier
+            date_str = nom_fichier.split('_')[2]  # Suppose que la date est à l'index 2
+            try:
+                # Convertir la date extraite en objet datetime
+                date_fichier = datetime.strptime(date_str, "%Y-%m-%d")
+                
+                # Vérifier si la date du fichier est dans la plage
+                if start_date_obj <= date_fichier <= end_date_obj:
+                    chemin_fichier = os.path.join(data_folder, nom_fichier)
+                    try:
+                        # Supprimer le fichier
+                        os.remove(chemin_fichier)
+                        print(f"Fichier supprimé : {nom_fichier}")
+                    except Exception as e:
+                        print(f"Erreur lors de la suppression du fichier {nom_fichier}: {e}")
+            except ValueError:
+                print(f"Date non valide dans le fichier {nom_fichier}. Ignoré.")
+
+# Utilisation de la fonction
+dossier_json = "json_data"
+supprimer_fichiers_bloquent(dossier_json, "2024-10-08", "2024-10-17")
 """
+
 
 
 def json_to_dataframe(dossier):

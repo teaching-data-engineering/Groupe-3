@@ -41,7 +41,6 @@ def collect_events(url, delay=1):
         if data and 'events' in data:
             events = data['events']
             if not events:  # S'il n'y a pas d'événements, nous arrêtons la collecte
-                print(f"Aucun événement trouvé sur la page {page}. Arrêt de la collecte.")
                 break
             
             # Vérification de l'unicité des événements
@@ -53,20 +52,18 @@ def collect_events(url, delay=1):
                     last_event_ids.add(event_id)  # Ajouter l'ID à l'ensemble
             
             if not new_events:  # Si aucun nouvel événement n'a été trouvé
-                print(f"Aucun nouvel événement trouvé sur la page {page}. Arrêt de la collecte.")
-                break
+               break
             
             all_events.extend(new_events)
-            print(f"Collecte des événements de la page {page}. Total des événements collectés : {len(all_events)}")
             
             last_events = events.copy()  # Mettre à jour last_events avec les événements de la page actuelle
             page += 1
             time.sleep(delay)  # Ajout d'un délai entre les requêtes
         else:
-            print("Aucun événement trouvé ou données mal formatées. Arrêt de la collecte.")
-            break
-
-    return all_events
+           break
+    
+    page_finale= page - 1
+    return print(page_finale)
 
 
 def scrap_one_page(page):
@@ -103,8 +100,9 @@ def save_json(response, idx_page):
     print(f"Données sauvegardées dans {file_name}")
     return None
 
-def scrap_multiple_pages(start_date, end_date, max_page=29):
-    url = "https://www.bandsintown.com/choose-dates/fetch-next/upcomingEvents"  # Remplace par l'URL de ton API
+def scrap_multiple_pages(start_date, end_date, max_page=None, url="https://www.bandsintown.com/choose-dates/fetch-next/upcomingEvents"):
+    if max_page == None :
+        max_page =  int(collect_events(url))
     for page in range(1, max_page + 1):
         print(f"Scraping page {page}...")
         
@@ -132,7 +130,8 @@ def scrap_multiple_pages(start_date, end_date, max_page=29):
 if __name__ == '__main__':
     url = "https://www.bandsintown.com/choose-dates/fetch-next/upcomingEvents"
     data = get_json_from_url(url,param(page=2))
-    #events = collect_events(url, delay=1)
+    #collect_events(url, delay=1)
     scrap_multiple_pages("2024-10-07T14:01:04","2024-10-31T23:00:00")
     #print(scrap_one_page(2))
     #save_json(data, 1)
+    #print(type(collect_events(url)))

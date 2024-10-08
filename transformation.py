@@ -2,6 +2,7 @@ import json
 import pandas as pd
 from pandas import json_normalize
 import os
+import requests
 
 def json_to_dataframe(dossier):
 
@@ -47,4 +48,18 @@ dossier = "json_data"
 df_complet = json_to_dataframe(dossier)
 
 # Afficher les premières lignes du DataFrame combiné
-print(df_complet.head())
+#print(df_complet.head())
+
+
+def enrichissement(df_complet):
+    geocode_api_url = "https://maps.googleapis.com/maps/api/geocode/json"
+    location = df_complet.get("venueName")
+    
+    response = requests.get(f"{geocode_api_url}?address={location}")
+    if response.ok:
+        coords = response.json()
+        print(coords)
+        df_complet['latitude'] = coords['lat']
+        df_complet['longitude'] = coords['lng']
+
+enrichissement(df_complet)

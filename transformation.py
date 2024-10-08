@@ -3,8 +3,8 @@ import pandas as pd
 from pandas import json_normalize
 import os
 
-def charger_evenements_json(dossier):
-    
+def json_to_dataframe(dossier):
+
     # Compter le nombre de fichiers dans le dossier
     nombre_de_fichiers = len([f for f in os.listdir(dossier) if os.path.isfile(os.path.join(dossier, f))])
 
@@ -44,7 +44,7 @@ def charger_evenements_json(dossier):
 
 # Utilisation de la fonction
 dossier = "json_data"
-df_complet = charger_evenements_json(dossier)
+df_complet = json_to_dataframe(dossier)
 
 # Afficher les premières lignes du DataFrame combiné
 print(df_complet.head())

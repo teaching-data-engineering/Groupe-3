@@ -2,6 +2,7 @@ import requests
 import os
 import json
 import time
+from datetime import datetime, timedelta
 
 def get_json_from_url(mon_url,params=None):
     # Définir l'agent utilisateur
@@ -29,14 +30,14 @@ def param(date= "2024-10-07T14:01:04,2024-10-31T23:00:00",longitude= -0.12574,la
     return params
 
 
-def collect_events(url, delay=1):
+def collect_events(url, date,delay=1):
     page = 1
     all_events = []
     last_event_ids = set()  # Ensemble pour suivre les IDs des événements collectés
     last_events = []  # Stocker les événements de la dernière page pour comparaison
 
     while True:  # Boucle infinie jusqu'à ce que nous décidions d'arrêter
-        data = get_json_from_url(url, param(page=page))
+        data = get_json_from_url(url, param(date=date,page=page))
         
         if data and 'events' in data:
             events = data['events']
@@ -101,25 +102,40 @@ def save_json(response, idx_page):
     return None
 
 def scrap_multiple_pages(start_date, end_date, max_page=None, url="https://www.bandsintown.com/choose-dates/fetch-next/upcomingEvents"):
-    if max_page == None :
-        max_page =  int(collect_events(url))
-    for page in range(1, max_page + 1):
-        print(f"Scraping page {page}...")
-        
-        # Récupérer les paramètres pour la requête de la page
-        params = param(date=f"{start_date},{end_date}", page=page)
-        
-        # Récupérer les données JSON de la page
-        response = get_json_from_url(url, params)
-        
-        if response and 'events' in response:
-            print(f"Page {page} récupérée avec succès.")
-            
-            # Sauvegarder les données de la page dans un fichier JSON
-            save_json(response, page)
-        else:
-            print(f"Fin de la collecte ou problème rencontré à la page {page}.")
-            break
+    start_date_obj = datetime.strptime(start_date, "%Y-%m-%dT%H:%M:%S")
+    end_date_obj = datetime.strptime(end_date, "%Y-%m-%dT%H:%M:%S")
+
+    current_date = start_date_obj
+    while current_date <= end_date_obj:
+        # Format de la date pour une seule journée
+        day_start = current_date.strftime("%Y-%m-%dT00:00:00")
+        day_end = current_date.strftime("%Y-%m-%dT23:59:59")
+        file_safe_date = current_date.strftime("%Y-%m-%d")
+        print(f"Collecte des événements pour la date : {day_start}")
+
+        # Appel à collect_events avec la date spécifique pour obtenir le nombre de pages
+        current_max_page = max_page if max_page is not None else collect_events(url, date=f"{day_start},{day_end}")
+
+        for page in range(1, current_max_page + 1):
+            print(f"Scraping page {page} pour la date {day_start}...")
+
+            # Récupérer les paramètres pour la requête de la page, avec la date actuelle
+            params = param(date=f"{day_start},{day_end}", page=page)
+
+            # Récupérer les données JSON de la page
+            response = get_json_from_url(url, params)
+
+            if response and 'events' in response:
+                print(f"Page {page} récupérée avec succès pour la date {day_start}.")
+
+                # Sauvegarder les données de la page dans un fichier JSON
+                save_json(response, f"{file_safe_date}_page_{page}")
+            else:
+                print(f"Fin de la collecte ou problème rencontré à la page {page} pour la date {day_start}.")
+                break
+
+        # Passer au jour suivant
+        current_date += timedelta(days=1)
 
     print("Collecte terminée.")
 

@@ -30,7 +30,7 @@ def param(date= "2024-10-07T14:01:04,2024-10-31T23:00:00",longitude= -0.12574,la
     return params
 
 
-def collect_events(url, date,delay=1):
+def collect_events(url, date,delay=3):
     page = 1
     all_events = []
     last_event_ids = set()  # Ensemble pour suivre les IDs des événements collectés
@@ -148,6 +148,7 @@ if __name__ == '__main__':
     data = get_json_from_url(url,param(page=2))
     #collect_events(url, delay=1)
     scrap_multiple_pages("2024-10-31T00:00:00","2024-10-31T23:00:00")
+    scrap_multiple_pages("2024-10-20T14:01:04","2024-10-31T23:00:00")
     #print(scrap_one_page(2))
     #save_json(data, 1)
     #print(type(collect_events(url)))

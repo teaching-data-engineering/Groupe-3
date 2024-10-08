@@ -4,7 +4,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/9620476.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/9620476.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/105580271-booker-t.-jones-at-ronnie-scott's?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.png",
+=======
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Booker T. Jones",
             "venueName": "Ronnie Scott's",
             "streamingEvent": false,
@@ -50,7 +54,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/14887341.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/14887341.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032849676-albert-lee-at-boisdale-of-canary-wharf?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/03.png",
+=======
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/06.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Albert Lee",
             "venueName": "Boisdale of Canary Wharf",
             "streamingEvent": false,
@@ -73,7 +81,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/8484036.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/8484036.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1033189679-mind-enterprises-at-ridley-road-market-bar?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.png",
+=======
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/01.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Mind Enterprises",
             "venueName": "Ridley Road Market Bar",
             "streamingEvent": false,
@@ -96,7 +108,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/18377313.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/18377313.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/106003943-marvin-muoneke-at-boisdale-of-belgravia?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.png",
+=======
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Marvin Muoneké",
             "venueName": "Boisdale of Belgravia",
             "streamingEvent": false,
@@ -120,7 +136,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/18097721.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/18097721.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/105914318-big-narstie-at-university-of-hertfordshire?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/07.png",
+=======
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "Big Narstie",
             "venueName": "University of Hertfordshire",
             "streamingEvent": false,
@@ -143,7 +163,11 @@
             "artistImageSrc": "https://photos.bandsintown.com/thumb/11075717.jpeg",
             "properlySizedImageURL": "https://media.bandsintown.com/110x110/11075717.webp",
             "callToActionRedirectUrl": "https://www.bandsintown.com/e/1031796263-frameless-at-marble-arch-place?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+<<<<<<< HEAD
             "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
+=======
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.png",
+>>>>>>> 70f3de608b1d816354bca7d5360f7e9fa1055893
             "artistName": "FRAMELESS",
             "venueName": "Marble Arch Place",
             "streamingEvent": false,

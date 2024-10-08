@@ -2,11 +2,9 @@ import json
 import pandas as pd
 from pandas import json_normalize
 import os
-<<<<<<< HEAD
 import requests
-=======
 from datetime import datetime
->>>>>>> bdb60457e1fe225cf0e3a98507dcb9e0e05e4c9f
+
 
 def json_to_dataframe(dossier):
 
@@ -55,7 +53,6 @@ df_complet = json_to_dataframe(dossier)
 #print(df_complet.head())
 
 
-<<<<<<< HEAD
 def enrichissement(df_complet):
     geocode_api_url = "https://maps.googleapis.com/maps/api/geocode/json"
     location = df_complet.get("venueName")
@@ -68,7 +65,6 @@ def enrichissement(df_complet):
         df_complet['longitude'] = coords['lng']
 
 enrichissement(df_complet)
-=======
 
 
 
@@ -104,4 +100,3 @@ def enrichissement_date(df):
 
 df_enrichi = enrichissement_date(df_complet)
 print(df_enrichi.head())
->>>>>>> bdb60457e1fe225cf0e3a98507dcb9e0e05e4c9f

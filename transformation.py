@@ -4,65 +4,8 @@ from pandas import json_normalize
 import os
 import requests
 from datetime import datetime
-
-"""
-# Supprimer les anciens fichiers
-def supprimer_fichiers(data_folder):
-    # Boucler de 1 à 29
-    for i in range(1, 30):
-        # Construire le nom du fichier à supprimer
-        nom_fichier = f"data_page_{i}.json"
-        chemin_fichier = os.path.join(data_folder, nom_fichier)
-
-        try:
-            # Vérifier si le fichier existe
-            if os.path.isfile(chemin_fichier):
-                # Supprimer le fichier
-                os.remove(chemin_fichier)
-                print(f"Fichier supprimé : {nom_fichier}")
-            else:
-                print(f"Le fichier {nom_fichier} n'existe pas.")
-        except Exception as e:
-            print(f"Erreur lors de la suppression du fichier {nom_fichier}: {e}")
-
-# Utilisation de la fonction
-dossier_json = "json_data"  # Remplacez par le chemin de votre dossier
-supprimer_fichiers(dossier_json)
-
-
-# Supprimer les fichiers qui bloquent
-def supprimer_fichiers_bloquent(data_folder, start_date, end_date):
-    # Convertir les dates en objets datetime pour comparaison
-    start_date_obj = datetime.strptime(start_date, "%Y-%m-%d")
-    end_date_obj = datetime.strptime(end_date, "%Y-%m-%d")
-
-    # Parcourir tous les fichiers dans le dossier
-    for nom_fichier in os.listdir(data_folder):
-        # Vérifier si le nom du fichier commence par "data_page_" et contient "_page_"
-        if nom_fichier.startswith("data_page_") and "_page_" in nom_fichier and nom_fichier.endswith(".json"):
-            # Extraire la date du nom du fichier
-            date_str = nom_fichier.split('_')[2]  # Suppose que la date est à l'index 2
-            try:
-                # Convertir la date extraite en objet datetime
-                date_fichier = datetime.strptime(date_str, "%Y-%m-%d")
-                
-                # Vérifier si la date du fichier est dans la plage
-                if start_date_obj <= date_fichier <= end_date_obj:
-                    chemin_fichier = os.path.join(data_folder, nom_fichier)
-                    try:
-                        # Supprimer le fichier
-                        os.remove(chemin_fichier)
-                        print(f"Fichier supprimé : {nom_fichier}")
-                    except Exception as e:
-                        print(f"Erreur lors de la suppression du fichier {nom_fichier}: {e}")
-            except ValueError:
-                print(f"Date non valide dans le fichier {nom_fichier}. Ignoré.")
-
-# Utilisation de la fonction
-dossier_json = "json_data"
-supprimer_fichiers_bloquent(dossier_json, "2024-10-08", "2024-10-17")
-"""
-
+import time
+#from config import API_KEY
 
 
 def json_to_dataframe(dossier):
@@ -117,78 +60,144 @@ def json_to_dataframe(dossier):
         print("Aucun fichier valide n'a été trouvé.")
         return pd.DataFrame()  # Renvoie un DataFrame vide si aucun fichier n'a été trouvé
 
-# Utilisation de la fonction
-dossier = "json_data"
-df_complet = json_to_dataframe(dossier)
+
 
 # Afficher les premières lignes du DataFrame combiné
 #print(df_complet.head())
 
+def enrichissement(dossier):
+    df_complet = json_to_dataframe(dossier)
 
-def enrichissement(df_complet):
-    geocode_api_url = "https://maps.googleapis.com/maps/api/geocode/json"
-    location = df_complet.get("venueName")
-    
-    response = requests.get(f"{geocode_api_url}?address={location}")
-    if response.ok:
-        coords = response.json()
-        print(coords)
-        df_complet['latitude'] = coords['lat']
-        df_complet['longitude'] = coords['lng']
+    ########################## Enrichissement sur la date ##########################
 
+    # Passage de la date au format DateTime
+    df_complet['startsAt'] = pd.to_datetime(df_complet['startsAt'], errors='coerce')
 
-def enrichissement_date(df):
-    
-    # Assurer que la colonne 'startsAt' est bien au format datetime
-    df['startsAt'] = pd.to_datetime(df['startsAt'], errors='coerce')
-
-    # Indiquer si l'événement est un week-end (samedi ou dimanche)
-    df['is_weekend'] = df['startsAt'].dt.weekday >= 5  # 5 pour samedi, 6 pour dimanche
+    # week-end 
+    df_complet['is_weekend'] = df_complet['startsAt'].dt.weekday >= 5  # 5 pour samedi, 6 pour dimanche
 
     # Numéro de la semaine de l'année
-    df['week_number'] = df['startsAt'].dt.isocalendar().week
+    df_complet['week_number'] = df_complet['startsAt'].dt.isocalendar().week
 
-    # Mois de l'événement
-    df['month'] = df['startsAt'].dt.month
+    # Mois
+    df_complet['month'] = df_complet['startsAt'].dt.month
 
     # Nombre de jours avant l'événement (par rapport à la date actuelle)
     now = pd.Timestamp.now()
-    df['days_before_event'] = (df['startsAt'] - now).dt.days
+    df_complet['days_before_event'] = (df_complet['startsAt'] - now).dt.days
 
     # Durée de l'événement si les données de début et de fin sont disponibles
-    # Supposons qu'une colonne 'endsAt' existe (sinon cette partie peut être adaptée)
-    if 'endsAt' in df.columns:
-        df['endsAt'] = pd.to_datetime(df['endsAt'], errors='coerce')
-        df['event_duration_hours'] = (df['endsAt'] - df['startsAt']).dt.total_seconds() / 3600
+    if 'endsAt' in df_complet.columns:
+        df_complet['endsAt'] = pd.to_datetime(df_complet['endsAt'], errors='coerce')
+        df_complet['event_duration_hours'] = (df_complet['endsAt'] - df_complet['startsAt']).dt.total_seconds() / 3600
     else:
-        df['event_duration_hours'] = None  # Si 'endsAt' n'existe pas, on met None
+        df_complet['event_duration_hours'] = None  
+
+    ########################## Segmentation en fonction de la popularité ##########################
+
+    # Créer une nouvelle colonne 'popularite'
+    df_complet['popularite'] = pd.cut(df_complet['rsvpCountInt'], bins=[0, 2, 50, 200, float('inf')], labels=['Faible', 'Moyenne', 'Haute', 'Très Haute'], right=False)
+
+    ########################## Nombre de concerts de l'artiste dans cette salle dans la période donnée ##########################
+
+    # Créer une nouvelle colonne pour le nombre de jours de concert
+    df_complet['nombre_jours_concert'] = 0
+
+    # Grouper par artiste et lieu
+    grouped = df_complet.groupby(['artistName', 'venueName'])
+
+    for name, group in grouped:
+        # Compter le nombre de jours uniques
+        unique_days = group['startsAt'].dt.date.nunique()  # Compte des jours uniques
+        df_complet.loc[group.index, 'nombre_jours_concert'] = unique_days
+    return df_complet
+
+
+########################## Coordonnées géographiques ##########################
+
+def get_coordinates(api_key, location):
+    """Obtenir les coordonnées d'une localisation via l'API OpenRouteService."""
+    url = "https://api.openrouteservice.org/geocode/search"
+    headers = {
+        'Authorization': api_key,
+        'Content-Type': 'application/json'
+    }
+    params = {
+        'text': location,
+        'size': 1  # Nombre de résultats à renvoyer
+    }
+
+    while True:  # Boucle pour gérer les tentatives
+        try:
+            response = requests.get(url, headers=headers, params=params)
+            response.raise_for_status()  # Vérifie les erreurs HTTP
+            data = response.json()
+
+            # Vérifiez si des résultats ont été trouvés
+            if data['features']:
+                coords = data['features'][0]['geometry']['coordinates']
+                return coords[0], coords[1]  # Renvoie (longitude, latitude)
+            else:
+                print(f"Aucun résultat trouvé pour {location}.")
+                return None, None  # Aucun résultat trouvé
+
+        except requests.exceptions.HTTPError as e:
+            if response.status_code == 429:  # Trop de requêtes
+                print(f"Erreur 429: Trop de requêtes. Attente de 30 secondes...")
+                time.sleep(30) 
+            else:
+                print(f"Erreur lors de la récupération des coordonnées pour '{location}': {e}")
+                return None, None  # Retourne None en cas d'erreur
+
+        except requests.exceptions.RequestException as e:
+            print(f"Erreur lors de la récupération des coordonnées pour '{location}': {e}")
+            return None, None  # Retourne None en cas d'erreur
+
+
+def add_coordinates_to_dataframe(df, api_key):
+    """Ajoute les coordonnées (longitude, latitude) au DataFrame en évitant les doublons."""
+    # Créer une colonne pour stocker les coordonnées
+    df['longitude'] = None
+    df['latitude'] = None
+
+    # Regrouper par 'venueName' et 'locationText' pour obtenir des localisations uniques
+    unique_locations = df.groupby(['venueName', 'locationText']).size().reset_index(name='counts')
+    unique_locations['full_location'] = unique_locations.apply(lambda row: f"{row['venueName']}, {row['locationText']}", axis=1)
+
+    # Dictionnaire pour stocker les coordonnées récupérées
+    coordinates_dict = {}
+
+    for index, row in unique_locations.iterrows():
+        location = row['full_location']
+        print(f"Recherche des coordonnées pour: {location}")  # Message de débogage
+
+        # Obtenez les coordonnées
+        longitude, latitude = get_coordinates(api_key, location)
+
+        # Stockez les coordonnées dans le dictionnaire
+        coordinates_dict[location] = (longitude, latitude)
+
+        # Attendre un peu pour éviter d'être bloqué par l'API
+        time.sleep(1)
+
+
+    # Maintenant, associer les coordonnées originales dans le DataFrame
+    for index, row in df.iterrows():
+        location = f"{row['venueName']}, {row['locationText']}"
+        if location in coordinates_dict:
+            df.at[index, 'longitude'], df.at[index, 'latitude'] = coordinates_dict[location]
 
     return df
 
 
-print(df_complet)
-df_enrichi = enrichissement_date(df_complet)
-#print(df_enrichi.head())
 
+dossier = "json_data"
+df_complet = enrichissement(dossier)
+API_KEY = '5b3ce3597851110001cf6248f4b62f4a46614677ab25ada4590c91c2'
+df_complet = add_coordinates_to_dataframe(df_complet, API_KEY)
 
-# Supposons que df_complet est votre DataFrame avec rsvpCountInt
-def segmenter_popularite(df):
-    # Définir les seuils et les labels pour la segmentation
-    bins = [0, 2, 50, 200, float('inf')]
-    labels = ['Faible', 'Moyenne', 'Haute', 'Très Haute']
-    
-    # Créer une nouvelle colonne 'popularite' en utilisant pd.cut()
-    df['popularite'] = pd.cut(df['rsvpCountInt'], bins=bins, labels=labels, right=False)
-    
-    return df
+# Visualisation du résultat
+print(df_complet.head())
 
-# Appliquer la fonction
-df_complet = segmenter_popularite(df_complet)
-
-# Afficher le DataFrame mis à jour
-print(df_complet[['rsvpCountInt', 'popularite']])
-
-frequences_popularite = df_complet['popularite'].value_counts()
-
-# Afficher les résultats
-print(frequences_popularite)
+# Exportation du résultat 
+df_complet.to_csv("df_Mahe_Lucas_Leroux_Cabon.csv", index=False, encoding='utf-8')

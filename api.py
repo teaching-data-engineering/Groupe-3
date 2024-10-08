@@ -63,7 +63,7 @@ def collect_events(url, delay=1):
            break
     
     page_finale= page - 1
-    return print(page_finale)
+    return page_finale
 
 
 def scrap_one_page(page):

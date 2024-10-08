@@ -5,37 +5,75 @@ import os
 import requests
 from datetime import datetime
 
+"""
+def supprimer_fichiers(data_folder):
+    # Boucler de 1 à 29
+    for i in range(1, 30):
+        # Construire le nom du fichier à supprimer
+        nom_fichier = f"data_page_{i}.json"
+        chemin_fichier = os.path.join(data_folder, nom_fichier)
+
+        try:
+            # Vérifier si le fichier existe
+            if os.path.isfile(chemin_fichier):
+                # Supprimer le fichier
+                os.remove(chemin_fichier)
+                print(f"Fichier supprimé : {nom_fichier}")
+            else:
+                print(f"Le fichier {nom_fichier} n'existe pas.")
+        except Exception as e:
+            print(f"Erreur lors de la suppression du fichier {nom_fichier}: {e}")
+
+# Utilisation de la fonction
+dossier_json = "json_data"  # Remplacez par le chemin de votre dossier
+supprimer_fichiers(dossier_json)
+"""
+
+
 def json_to_dataframe(dossier):
-
-    # Compter le nombre de fichiers dans le dossier
-    nombre_de_fichiers = len([f for f in os.listdir(dossier) if os.path.isfile(os.path.join(dossier, f))])
-
     # Créer une liste pour stocker les DataFrames de chaque page
     dataframes = []
 
-    # Boucler sur toutes les pages disponibles
-    for page_num in range(1, nombre_de_fichiers + 1):  # Les pages vont de 1 à nombre_de_fichiers inclus
-        file_path = f"{dossier}/data_page_{page_num}.json"  # Chemin du fichier
-        
-        try:
-            # Charger le fichier JSON
-            with open(file_path, "r", encoding="utf-8") as f:
-                fichier = json.load(f)
+    # Boucler sur tous les fichiers du dossier
+    for fichier in os.listdir(dossier):
+        # Vérifier si c'est un fichier JSON qui correspond au format attendu
+        if fichier.startswith("data_page_") and fichier.endswith(".json"):
+            # Extraire le numéro de page à partir du nom du fichier
+            try:
+                # Extraire le numéro de page
+                page_num = int(fichier.split('_page_')[-1].split('.')[0])
+                # Extraire la date sécurisée du fichier
+                file_safe_date = fichier.split('_page_')[0].split('data_page_')[-1]
+            except (IndexError, ValueError):
+                print(f"Le fichier {fichier} n'a pas pu être analysé pour le numéro de page.")
+                continue
             
-            # Créer un DataFrame pour chaque page
-            df = json_normalize(fichier["events"])
+            file_path = os.path.join(dossier, fichier)  # Chemin complet du fichier
             
-            # Ajouter le DataFrame à la liste
-            dataframes.append(df)
-            
-            # Afficher un message pour indiquer le succès
-            print(f"Page {page_num} chargée avec succès.")
-            
-        except FileNotFoundError:
-            print(f"Le fichier pour la page {page_num} est introuvable.")
-        except KeyError:
-            print(f"Problème avec la structure du fichier à la page {page_num}.")
-
+            try:
+                # Charger le fichier JSON
+                with open(file_path, "r", encoding="utf-8") as f:
+                    contenu = json.load(f)
+                
+                # Créer un DataFrame pour chaque page
+                df = json_normalize(contenu["events"])
+                
+                # Ajouter une colonne pour la date sécurisée
+                df['file_safe_date'] = file_safe_date
+                
+                # Ajouter le DataFrame à la liste
+                dataframes.append(df)
+                
+                # Afficher un message pour indiquer le succès
+                print(f"Page {page_num} chargée avec succès à partir de {fichier}.")
+                
+            except FileNotFoundError:
+                print(f"Le fichier {fichier} est introuvable.")
+            except KeyError:
+                print(f"Problème avec la structure du fichier {fichier}.")
+            except json.JSONDecodeError:
+                print(f"Erreur lors du chargement du fichier JSON {fichier}.")
+    
     # Combiner tous les DataFrames en un seul
     if dataframes:
         df_complet = pd.concat(dataframes, ignore_index=True)
@@ -51,7 +89,7 @@ df_complet = json_to_dataframe(dossier)
 # Afficher les premières lignes du DataFrame combiné
 #print(df_complet.head())
 
-
+"""
 def enrichissement(df_complet):
     geocode_api_url = "https://maps.googleapis.com/maps/api/geocode/json"
     location = df_complet.get("venueName")
@@ -96,3 +134,4 @@ def enrichissement_date(df):
 print(df_complet)
 df_enrichi = enrichissement_date(df_complet)
 #print(df_enrichi.head())
+"""

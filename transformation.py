@@ -2,6 +2,7 @@ import json
 import pandas as pd
 from pandas import json_normalize
 import os
+from datetime import datetime
 
 def json_to_dataframe(dossier):
 
@@ -47,4 +48,37 @@ dossier = "json_data"
 df_complet = json_to_dataframe(dossier)
 
 # Afficher les premières lignes du DataFrame combiné
-print(df_complet.head())
+#print(df_complet.head())
+
+
+def enrichissement_date(df):
+    
+    # Assurer que la colonne 'startsAt' est bien au format datetime
+    df['startsAt'] = pd.to_datetime(df['startsAt'], errors='coerce')
+
+    # Indiquer si l'événement est un week-end (samedi ou dimanche)
+    df['is_weekend'] = df['startsAt'].dt.weekday >= 5  # 5 pour samedi, 6 pour dimanche
+
+    # Numéro de la semaine de l'année
+    df['week_number'] = df['startsAt'].dt.isocalendar().week
+
+    # Mois de l'événement
+    df['month'] = df['startsAt'].dt.month
+
+    # Nombre de jours avant l'événement (par rapport à la date actuelle)
+    now = pd.Timestamp.now()
+    df['days_before_event'] = (df['startsAt'] - now).dt.days
+
+    # Durée de l'événement si les données de début et de fin sont disponibles
+    # Supposons qu'une colonne 'endsAt' existe (sinon cette partie peut être adaptée)
+    if 'endsAt' in df.columns:
+        df['endsAt'] = pd.to_datetime(df['endsAt'], errors='coerce')
+        df['event_duration_hours'] = (df['endsAt'] - df['startsAt']).dt.total_seconds() / 3600
+    else:
+        df['event_duration_hours'] = None  # Si 'endsAt' n'existe pas, on met None
+
+    return df
+
+
+df_enrichi = enrichissement_date(df_complet)
+print(df_enrichi.head())

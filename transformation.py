@@ -89,7 +89,7 @@ df_complet = json_to_dataframe(dossier)
 # Afficher les premières lignes du DataFrame combiné
 #print(df_complet.head())
 
-"""
+
 def enrichissement(df_complet):
     geocode_api_url = "https://maps.googleapis.com/maps/api/geocode/json"
     location = df_complet.get("venueName")
@@ -134,4 +134,26 @@ def enrichissement_date(df):
 print(df_complet)
 df_enrichi = enrichissement_date(df_complet)
 #print(df_enrichi.head())
-"""
+
+
+# Supposons que df_complet est votre DataFrame avec rsvpCountInt
+def segmenter_popularite(df):
+    # Définir les seuils et les labels pour la segmentation
+    bins = [0, 2, 50, 200, float('inf')]
+    labels = ['Faible', 'Moyenne', 'Haute', 'Très Haute']
+    
+    # Créer une nouvelle colonne 'popularite' en utilisant pd.cut()
+    df['popularite'] = pd.cut(df['rsvpCountInt'], bins=bins, labels=labels, right=False)
+    
+    return df
+
+# Appliquer la fonction
+df_complet = segmenter_popularite(df_complet)
+
+# Afficher le DataFrame mis à jour
+print(df_complet[['rsvpCountInt', 'popularite']])
+
+frequences_popularite = df_complet['popularite'].value_counts()
+
+# Afficher les résultats
+print(frequences_popularite)

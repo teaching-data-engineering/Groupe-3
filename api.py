@@ -147,7 +147,7 @@ if __name__ == '__main__':
     url = "https://www.bandsintown.com/choose-dates/fetch-next/upcomingEvents"
     data = get_json_from_url(url,param(page=2))
     #collect_events(url, delay=1)
-    scrap_multiple_pages("2024-10-31T00:00:00","2024-10-31T23:00:00")
+    scrap_multiple_pages("2024-10-08T00:00:00","2024-10-17T23:00:00")
     #print(scrap_one_page(2))
     #save_json(data, 1)
     #print(type(collect_events(url)))

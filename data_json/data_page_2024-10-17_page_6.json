@@ -1,0 +1,52 @@
+{
+    "events": [
+        {
+            "artistImageSrc": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/08.png",
+            "properlySizedImageURL": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/04.webp",
+            "callToActionRedirectUrl": "https://www.bandsintown.com/e/1032703104-drum-n-bass-at-corsica-studios?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.png",
+            "artistName": "Drum n Bass",
+            "venueName": "Corsica Studios",
+            "streamingEvent": false,
+            "title": null,
+            "locationText": "London, United Kingdom",
+            "pinIconSrc": "https://assets.prod.bandsintown.com/images/pinIcon.svg",
+            "eventUrl": "https://www.bandsintown.com/e/1032703104-drum-n-bass-at-corsica-studios?came_from=257&utm_medium=web&utm_source=home&utm_campaign=event",
+            "artistUrl": "https://www.bandsintown.com/a/613707-drum-n-bass?came_from=257&utm_medium=web&utm_source=home&utm_campaign=event",
+            "watchLiveText": "Watch Live",
+            "isPlus": false,
+            "callToActionText": "Tickets & RSVP",
+            "rsvpCount": "0",
+            "rsvpCountInt": 0,
+            "startsAt": "2024-10-17T23:00:00",
+            "timezone": "Europe/London",
+            "displayRule": "datetime",
+            "locale": "en"
+        },
+        {
+            "artistImageSrc": "https://photos.bandsintown.com/thumb/11075717.jpeg",
+            "properlySizedImageURL": "https://media.bandsintown.com/110x110/11075717.webp",
+            "callToActionRedirectUrl": "https://www.bandsintown.com/e/1031797755-frameless-at-marble-arch-place?came_from=257&utm_medium=web&utm_source=home&utm_campaign=ticket_rsvp",
+            "fallbackImageUrl": "https://assets.prod.bandsintown.com/images/homeIcon/festivalPlaceHolderImage/02.png",
+            "artistName": "FRAMELESS",
+            "venueName": "Marble Arch Place",
+            "streamingEvent": false,
+            "title": null,
+            "locationText": "London, United Kingdom",
+            "pinIconSrc": "https://assets.prod.bandsintown.com/images/pinIcon.svg",
+            "eventUrl": "https://www.bandsintown.com/e/1031797755-frameless-at-marble-arch-place?came_from=257&utm_medium=web&utm_source=home&utm_campaign=event",
+            "artistUrl": "https://www.bandsintown.com/a/387212-frameless?came_from=257&utm_medium=web&utm_source=home&utm_campaign=event",
+            "watchLiveText": "Watch Live",
+            "isPlus": false,
+            "callToActionText": "Tickets & RSVP",
+            "rsvpCount": "0",
+            "rsvpCountInt": 0,
+            "startsAt": "2024-10-17T23:59:00",
+            "timezone": "Europe/London",
+            "displayRule": "datetime",
+            "locale": "en"
+        }
+    ],
+    "urlForNextPageOfEvents": null,
+    "userLocation": null
+}
